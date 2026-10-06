@@ -1,0 +1,5 @@
+{
+  "dart.flutterSdkPath": "/Users/tebamazen/development/flutter",
+  "editor.formatOnSave": true,
+  "[dart]": { "editor.rulers": [80] }
+}
